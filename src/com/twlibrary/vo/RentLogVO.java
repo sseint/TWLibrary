@@ -19,7 +19,7 @@ public class RentLogVO {
 	private Calendar rentDay; // 빌린 날짜
 	private Calendar bannabDay; // 반납해야할 날짜
 	 
-	
+	  
 	public RentLogVO() {
 		
 	}
