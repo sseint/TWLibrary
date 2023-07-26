@@ -1,6 +1,12 @@
 # TWLibrary
 Java의 consol을 기반한 도서관 전산 관리 시스템을 구현한 프로젝트입니다.
 
+##목적
+어쩌구저쩌구
+
+##사용언어 & 사용기술
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=Java&logoColor=white"/>
+
 ## 역할별 기능
 ### 회원
 - 회원은 회원가입을 통해 session에 회원 정보가 등록됩니다. 로그인 후 각 회원은 도서 대출 현황, 반납 도서, 연체 유무를 확인할 수 있습니다.
